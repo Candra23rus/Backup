@@ -1,0 +1,22 @@
+/*================================================================================
+	Item Name: Robust - Responsive Admin Template
+	Version: 2.0
+	Author: PIXINVENT
+	Author URL: http://www.themeforest.net/user/pixinvent
+================================================================================
+
+NOTE:
+------
+PLACE HERE YOUR OWN SCSS CODES AND IF NEEDED, OVERRIDE THE STYLES FROM THE OTHER STYLESHEETS.
+WE WILL RELEASE FUTURE UPDATES SO IN ORDER TO NOT OVERWRITE YOUR STYLES IT'S BETTER LIKE THIS.  */
+.stage1 {
+    height: 400px;
+    width: 400px;
+    margin: 200 100 100 0;
+    position: absolute;
+    top: 200;
+    right: 0;
+    bottom: 200;
+    left: 1000;
+
+  }
